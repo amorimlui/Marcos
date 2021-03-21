@@ -1,11 +1,11 @@
 # ¿Cómo hostearlo?
-Haz click en el botón de abajo y sigue todos los pasos.
+Haz click en el botón de abajo y sigue todos los pasos.<br>
 [![Hostear en Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fashenzar%2FMarcos)
 
 # ¿Cómo mantenerlo actualizado?
 1. Crea una cuenta de Github si todavía no tienes una.
 2. Haz un [fork](https://github.com/ashenzar/Marcos/fork) de este repositorio.
-3. Conecta tu fork del repositorio a tu aplicación en heroku.
+3. Conecta tu fork del repositorio a tu aplicación en heroku.<br>
      Busca la pestaña <b>Deploy</b> de tu aplicación e inicia sesión con Github.
 4. Busca donde dice <b>Manual deploy</b>, selecciona la rama <b>master</b> y haz click en <b>Deploy Branch</b>
 
