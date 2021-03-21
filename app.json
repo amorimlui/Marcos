@@ -1,75 +1,64 @@
 
 {
-  "name": "GroupManager Bot",
-  "description": "Modular Telegram group management bot!",
+  "name": "Marcos",
+  "description": "Bot modular para gestionar grupos.",
   "keywords": [
     "telegram",
-    "best",
-    "group",
-    "manager",
-    "3"
+    "python-telegram-bot",
+    "sqlalchemy"
   ],
-  "repository": "hhttps://github.com/xditya/GroupManager",
+  "repository": "https://github.com/ashenzar/Marcos",
   "env": {
     "ENV": {
-      "description": "Setting this to ANYTHING will enable env variables",
-      "value": "ANYTHING"
+      "description": "Coloca ANYTHING aquí."
     },
     "TOKEN": {
-      "description": "Your bot token, as a string.",
-      "value": ""
+      "description": "El token de tu bot."
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
-      "value": "719195224"
+      "description": "Tu ID de telegram"
     },
     "OWNER_USERNAME": {
-      "description": "Your username",
-      "value": "xditya"
+      "description": "Tu nombre de usuario"
     },
-  
     "URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": ""
+      "description": "Reemplaza <appname> por el nombre de tu aplicación en heroku https://<appname>.herokuapp.com/"
     },
     "MESSAGE_DUMP": {
-      "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
+      "description": "Un chat para enviar reenviar mensajes a los que respondas.",
       "value": "-1007777777777"
     },
     "SUDO_USERS": {
-      "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 683538773 719195224 570400686 466337795"
+      "description": "Una lista de usuarios con el mayor nivel de acceso en el bot."
     },
     "SUPPORT_USERS": {
-      "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 683538773 570400686 719195224 466337795"
+      "description": "Una lista de usuarios con permisos de banear."
     },
     "WHITELIST_USERS": {
-      "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 683538773 570400686 466337795"
+      "description": "Una lista de usuarios que no pueden ser baneados."
     },
     "DONATION_LINK": {
-      "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/Your_id_here"
+      "description": "Un link donde te gustaría recibir donaciones.",
+      "value": "https://www.paypal.me/tu_id"
     },
     "PORT": {
-      "description": "Port to use for your webhooks",
+      "description": "Puerto para webhooks.",
       "value": "8443"
     },
     "DEL_CMDS": {
-      "description": "Whether to delete commands from users which don't have rights to use that command",
-      "value": "True"
+      "description": "Eliminar comandos enviados por usarios sin permisos de enviar comandos.",
+      "value": "False"
     },
     "STRICT_GBAN": {
-      "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
+      "description": "Cuando un usuario baneado globalmente hable, va a ser baneado.",
       "value": "True"
     },
     "ALLOW_EXCL": {
-      "description": "Whether to allow using exclamation marks ! for commands as well as /.",
+      "description": "Usar marcas de exclamación ! para comandos junto con /.",
       "value": "True"
     },
     "BAN_STICKER": {
-      "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
+      "description": "Sticker a enviar al banear personas. Usa @ShowJsonBot para obtener el hash.",
       "value": "CAADBQADNwEAAjZzSxRZAc49mnFSSAI"
     }
   },
