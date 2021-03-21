@@ -1,25 +1,20 @@
-# How to deploy?
-[Watch video tutorial on deploying](https://youtu.be/gXXFpTAk6Vo)
+# ¿Cómo hostearlo?
+[Mira este vídeo tutorial](https://youtu.be/gXXFpTAk6Vo) (en inglés)
 
-# GroupManager
+# Marcos
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
+[![Hostear en Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
 
-A modular Telegram Python bot running on python3 with an sqlalchemy database.
+Un bot modular con una base de datos sqlalchemy.
 
-Can be found on telegram as [GroupManager](https://t.me/tg_groupmanagerbot).
+Puede ser encontrado en telegram como [Estagiário Marcos](https://t.me/republicarbot).
+Entra a nuestro grupo de Werewolf [aquí!](https://t.me/lobinhorepublica)
 
-Alternatively, [find me on telegram](https://t.me/xditya)! (Keep all support questions in the support chat, where more people can help you.)
+# Bugs
+Reporta errores a [Layer](https://t.me/ashenzar)
 
-You can also join our support group [here!](https://t.me/tg_groupmanagerbot)
+# Créditos
+Este repo es kang de [GroupManager](https://github.com/xditya/GroupManager).
+Y a la vez fork de [HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya).
 
-# Group
-[Join Discuss Group](https://t.me/giveaways_24hrs)
-
-# Report error
-Report your problem along with your name to [this person](https://t.me/xditya)
-
-# Credits
-This repo is just a custom fork of [HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
-
-Thanks to the [real developer](https://t.me/RealAkito)!
+Gracias al [desarrollador original](https://t.me/RealAkito)!
