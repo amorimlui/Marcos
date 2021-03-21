@@ -7,11 +7,10 @@ Haz click en el botón de abajo y sigue todos los pasos.<br>
 2. Haz un [fork](https://github.com/ashenzar/Marcos/fork) de este repositorio.
 3. Conecta tu fork del repositorio a tu aplicación en heroku.<br>
      Busca la pestaña <b>Deploy</b> de tu aplicación e inicia sesión con Github.
-4. Busca donde dice <b>Manual deploy</b>, selecciona la rama <b>master</b> y haz click en <b>Deploy Branch</b>
+4. Busca donde dice <b>Manual deploy</b>, selecciona la rama <b>master</b> y haz click en <b>Deploy Branch</b>.
 
 # Marcos
-Un bot modular con una base de datos sqlalchemy.
-
+Un bot modular con una base de datos sqlalchemy.<br><br>
 Puede ser encontrado en telegram como [Estagiário Marcos](https://t.me/republicarbot).<br>
 Entra a nuestro grupo de Werewolf [aquí!](https://t.me/lobinhorepublica)
 
@@ -21,5 +20,4 @@ Reporta errores a [Layer](https://t.me/ashenzar)
 # Créditos
 Este repo es kang de [GroupManager](https://github.com/xditya/GroupManager).<br>
 Y a la vez fork de [HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya).<br><br>
-
 Gracias al [desarrollador original](https://t.me/RealAkito)!
