@@ -2,6 +2,7 @@
 {
   "name": "Marcos",
   "description": "Bot modular para gestionar grupos.",
+  "logo": "https://telegra.ph/file/98586fb1a5c4df729a256.jpg",
   "keywords": [
     "telegram",
     "python-telegram-bot",
