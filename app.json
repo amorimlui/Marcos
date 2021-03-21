@@ -17,10 +17,10 @@
       "description": "El token de tu bot."
     },
     "OWNER_ID": {
-      "description": "Tu ID de telegram"
+      "description": "Tu ID de telegram."
     },
     "OWNER_USERNAME": {
-      "description": "Tu nombre de usuario"
+      "description": "Tu nombre de usuario."
     },
     "URL": {
       "description": "Reemplaza <appname> por el nombre de tu aplicación en heroku https://<appname>.herokuapp.com/"
